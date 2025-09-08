@@ -10,7 +10,7 @@ Features:
 
 
 Tech Stack:
-Python,
-Pandas,
-Scikit-learn,
-Streamlit
+1) Python
+2) Pandas
+3) Scikit-learn
+4) Streamlit
